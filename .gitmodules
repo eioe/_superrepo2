@@ -1,0 +1,4 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = https://github.com/eioe/submodule1.git
+	branch = branch2
